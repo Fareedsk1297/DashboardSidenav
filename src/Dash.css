@@ -1,0 +1,16 @@
+.paddingAll{
+padding: 10px,10px,10px,10px;
+}
+.iconSet{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.gradient{
+  background: linear-gradient(to top,rgb(0, 0, 29),rgb(192, 82, 82),rgb(158, 226, 158));
+}
+
+.gradientLight{
+  background: rgb(48, 167, 77);
+  background: linear-gradient(to top,rgb(112, 112, 49),rgb(155, 102, 102),rgb(84, 199, 122));
+}
